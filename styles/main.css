@@ -3327,3 +3327,11 @@ a {
           background-color: rgba(143,168,171,0.8);
         }
       
+    #socialMenu{
+      display:none;
+    }
+
+    .topshare-button{
+      display:none;
+    }
+    
